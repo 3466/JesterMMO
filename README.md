@@ -1,7 +1,7 @@
 # JesterMMO
 collaborative gamer project https://discord.gg/pAqWDz4
 
-# Current Team
+# Current Team (41)
 Leads: 
 
 ```
