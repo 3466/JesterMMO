@@ -74,7 +74,7 @@ Music:
 
 Misc:
 ```
-@𝓒𝖔𝖉𝖊𝖘𝖙𝖊𝖗 𝓒𝖔𝖉𝖞#1446 (?)
+@𝓒𝖔𝖉𝖊𝖘𝖙𝖊𝖗 𝓒𝖔𝖉𝖞#1446 (Anything but programming)
 @Onix#7567 (Security & UX/UI)
 @Based Dio#8131 (World design, mission structure, general game design)
 ```
