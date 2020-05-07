@@ -27,6 +27,19 @@ Lore:
 @Sam Adam#5836
 ```
 
+Art/Modeling:
+```
+@ricky#3529
+@BCJCN_XO_MNLJH#4780 
+@Reign.#6666
+@Pwac#5153
+@nazgul#3885
+@slav#3149
+@Smok#6067
+@when#5531
+@Meuk#946
+```
+
 Programming:
 ```
 @Jester#1222
@@ -46,8 +59,22 @@ Programming:
 @TheKindacoolguy#4259 (Python)
 @GavinR621#2345 (Python)
 @Gabe#1959 (Web)
+@when#5531 (Web)
 @Nodge#9868
 @Based Dio#8131
 @nazgul#3885
 @fluidacid#6309
+```
+
+Music:
+```
+@TheRealCPG#4057
+@Pwac#5153
+```
+
+Misc:
+```
+@𝓒𝖔𝖉𝖊𝖘𝖙𝖊𝖗 𝓒𝖔𝖉𝖞#1446 (?)
+@Onix#7567 (Security & UX/UI)
+@Based Dio#8131 (World design, mission structure, general game design)
 ```
