@@ -41,7 +41,6 @@ Art/Modeling:
 @nazgul#3885
 @slav#3149
 @Smok#6067
-@when#5531
 @Meuk#946
 ```
 
