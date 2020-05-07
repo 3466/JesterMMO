@@ -64,6 +64,7 @@ Programming:
 @GavinR621#2345 (Python)
 @Gabe#1959 (Web)
 @when#5531 (Web)
+@rizzler#3736 (Web, C#)
 @Nodge#9868
 @Based Dio#8131
 @nazgul#3885
